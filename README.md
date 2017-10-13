@@ -7,7 +7,7 @@ Run tests:
 npm test
 ```
 
-Deploy function:
+Deploy function to AWS:
 ```
 ./deploy.sh
 ```
